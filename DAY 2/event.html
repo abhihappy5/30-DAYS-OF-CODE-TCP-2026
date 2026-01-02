@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Schedule & Registration Form</title>
+</head>
+
+<body>
+    <h1>Workshop to be held at N.I.T. Raipur</h1>
+    <hr>
+    <h2>Schedule for Workshop</h2>
+    <hr>
+    <h3>Date for the event : 10 JAN 2026</h3>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Time</th>
+                <th>Activity</th>
+                <th>Venue</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>09:00 - 09:30 AM</td>
+                <td>Opening Ceremony</td>
+                <td>Hira Hall</td>
+            </tr>
+            <tr>
+                <td>09:30 - 10:00 AM</td>
+                <td>Guest Speaker Session</td>
+                <td>Hira Hall</td>
+            </tr>
+            <tr>
+                <td>10:00 - 11:00 AM</td>
+                <td>Introduction to Workshop</td>
+                <td>Hira Hall</td>
+            </tr>
+            <tr>
+                <td>11:00 - 12:30 PM</td>
+                <td>Session I : Web Development</td>
+                <td>PPT Hall</td>
+            </tr>
+            <tr>
+                <td>12:30 - 02:00 PM</td>
+                <td>Session II : Mobile App Development</td>
+                <td>PPT Hall</td>
+            </tr>
+            <tr>
+                <td>02:00 - 03:00 PM</td>
+                <td>Lunch Break</td>
+                <td>Canteen</td>
+            </tr>
+            <tr>
+                <td>03:00 - 05:00 PM</td>
+                <td>Session III : Cyber Security</td>
+                <td>Hira Hall</td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <hr>
+
+    <h2>Registration Form</h2>
+    
+    <br>
+    
+    <form method="post" action="/submit">
+        <div>
+            <label for="fullname">Full Name:</label>
+            <input type="text" id="fullname" name="fullname" required>
+        </div>
+        
+        <br>
+
+        <div>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+        </div>
+        
+        <br>
+
+        <div>
+            <label for="phone">Phone Number:</label>
+            <input type="number" id="phone" name="phone">
+        </div>
+        
+        <br>
+        
+        <div>
+            <label for="roll no">Roll No:</label>
+            <input type="number" id="roll" name="roll">
+        </div>
+        
+        <br>
+        
+        <fieldset>
+            <legend>Ticket Type:</legend>
+            <label><input type="radio" name="ticket" value="silver" required> Silver</label>
+            <label><input type="radio" name="ticket" value="gold"> Gold</label>
+            <label><input type="radio" name="ticket" value="platinum"> Platinum</label>
+        </fieldset>
+        
+        <br>
+
+        <fieldset>
+            <legend>Workshop Preferences:</legend>
+            <label><input type="checkbox" name="workshops" value="webd"> Web Development</label>
+            <label><input type="checkbox" name="workshops" value="mobileapp"> Mobile App Development</label>
+            <label><input type="checkbox" name="workshops" value="cybersec"> Cyber Security</label>
+        </fieldset>
+        
+        <br>
+
+        <div>
+            <label for="comments">Comments:</label> <br>
+            <textarea id="comments" name="comments" rows="3" cols="90"></textarea>
+        </div>
+        
+        <br>
+
+        <button type="submit">Submit</button>
+    </form>
+
+</body>
+</html>
