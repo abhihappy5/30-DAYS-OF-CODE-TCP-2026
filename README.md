@@ -9,3 +9,7 @@
 
 [DAY 2]
 ![DAY 2](https://lh3.googleusercontent.com/d/10fpKXnwILjh_0l9X4vrVGvpAhdaZA8Js)
+
+[DAY 3]
+![DAY3](https://lh3.googleusercontent.com/d/1gUMYcLlxD3VWg56kftdVcY5CuRZ_Attk)
+![DAY3](https://lh3.googleusercontent.com/d/1zu_kPCXJrID1c36uqLdbbZIb7AoaMz5D)
