@@ -11,8 +11,8 @@
 ![DAY 2](https://lh3.googleusercontent.com/d/10fpKXnwILjh_0l9X4vrVGvpAhdaZA8Js)
 
 [DAY 3]
-![DAY3](https://lh3.googleusercontent.com/d/1gUMYcLlxD3VWg56kftdVcY5CuRZ_Attk)
-![DAY3](https://lh3.googleusercontent.com/d/1zu_kPCXJrID1c36uqLdbbZIb7AoaMz5D)
+![DAY3](https://lh3.googleusercontent.com/d/18R6mhakTkPAPcsaEvk4pXptjvS-pEzes)
+![DAY3](https://lh3.googleusercontent.com/d/1ekl-YeJPyFyOLJrRfAdek9lRxv4oCga7)
 
 [DAY 4]
 ![DAY 4](https://lh3.googleusercontent.com/d/1jMo0GLyBsNeh8sWkq2vpjOflhwGkLIdg)
