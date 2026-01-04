@@ -1,0 +1,148 @@
+:root {
+  --primary: #7029eb;     
+  --secondary: #06b6d4;   
+  --accent: #facc15;    
+  --light-bg: #fdf4ff;   
+  --card-bg: #ffffff;
+  --text-dark: #1f2933;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background: var(--light-bg);
+  color: var(--text-dark);
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: var(--primary);
+  color: whitesmoke;
+}
+
+.header nav a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: white;
+  transition: color 0.3s;
+}
+
+.header nav a:hover {
+  color: var(--accent);
+}
+
+.hero {
+  text-align: center;
+  padding: 70px 20px;
+  background: linear-gradient(
+    to right,
+    var(--primary),
+    var(--secondary)
+  );
+  color: white;
+}
+
+.hero h2 {
+  font-size: 2.5rem;
+  animation: fadeIn 1s ease;
+}
+
+.hero button {
+  margin-top: 20px;
+  padding: 12px 25px;
+  background: var(--accent);
+  color: black;
+  border: none;
+  cursor: pointer;
+  transition: transform 0.3s, background 0.3s;
+}
+
+.hero button:hover {
+  background: #eab308;
+  transform: scale(1.05);
+}
+
+.features {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 50px 20px;
+}
+
+.features article {
+  background: var(--card-bg);
+  padding: 25px;
+  width: 220px;
+  text-align: center;
+  border-top: 4px solid var(--secondary);
+  transition: 0.5s;
+}
+
+.features article:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.12);
+}
+
+.pricing {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 50px 20px;
+  background: #ede9fe;
+}
+
+.pricing div {
+  background: var(--card-bg);
+  padding: 30px;
+  width: 220px;
+  text-align: center;
+  border-bottom: 4px solid var(--accent);
+  transition: 0.3s;
+}
+
+.pricing div:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.12);
+}
+
+footer {
+  margin-top: auto;
+  text-align: center;
+  padding: 25px;
+  background: var(--primary);
+  color: white;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(25px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 768px) {
+  .features,
+  .pricing {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
