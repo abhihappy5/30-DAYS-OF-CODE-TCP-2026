@@ -19,3 +19,6 @@
 
 [DAY 5]
 ![DAY 5](https://lh3.googleusercontent.com/d/1A_jPh6ZDgrlRcgxEnwGLSin6Muyw2rcz)
+
+[DAY 6]
+![DAY 6]((https://lh3.googleusercontent.com/d/1qW8zol5N08PfLuppy3ie9MxJM2br8ILO)
