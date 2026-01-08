@@ -25,3 +25,6 @@
 
 [DAY 7]
 ![DAY 7](https://lh3.googleusercontent.com/d/1NogVgLeh4KoRuepOht1pHK2LjQMkstQO)
+
+[DAY 8]
+![DAY 8](https://lh3.googleusercontent.com/d/10Y5ZBxu2CkIpTshoMlvRLuBzzwTYLOxa)
