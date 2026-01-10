@@ -32,7 +32,7 @@
 [DAY 9]
 ![DAY 9](https://lh3.googleusercontent.com/d/1-wWECdlesGP7ZRIfDgkY59tVufWJJ-PX)
 
-[day 10]
+[DAY 10]
 ![DAY 10](https://lh3.googleusercontent.com/d/1A0z3huMvEGGSrJJUiVayfe-DffnssVXD)
 
 
