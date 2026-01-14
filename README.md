@@ -44,8 +44,8 @@
 [DAY 13]
 ![DAY 13](https://lh3.googleusercontent.com/d/1h7OSDdqrFz6HqujfTvtr7uECcHd4lLnB)
 
-
-
+[DAY 14]
+![DAY 14](https://lh3.googleusercontent.com/d/1ysvqBN1io9mCYfyxmgCSlt_pKVi_MpUX)
 
 
 
