@@ -50,7 +50,8 @@
 [DAY 15]
 ![DAY 15](https://lh3.googleusercontent.com/d/1SxVwc-ODPqPzDdaBnh7SbE7Aqf_ODSUR)
 
-
+[DAY 16]
+![DAY 16](https://lh3.googleusercontent.com/d/1R3nyRFWvUF1jdu-d3ml9lofBfA8y-h36)
 
 
 
