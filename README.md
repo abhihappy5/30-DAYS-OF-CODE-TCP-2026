@@ -53,7 +53,8 @@
 [DAY 16]
 ![DAY 16](https://lh3.googleusercontent.com/d/1R3nyRFWvUF1jdu-d3ml9lofBfA8y-h36)
 
-
+[DAY 17]
+![DAY 17](https://lh3.googleusercontent.com/d/1L1m4wCWrhrOyCvBBTJ7zW1ZcNHo-kKfN)
 
 
 
