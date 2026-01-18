@@ -56,7 +56,8 @@
 [DAY 17]
 ![DAY 17](https://lh3.googleusercontent.com/d/1L1m4wCWrhrOyCvBBTJ7zW1ZcNHo-kKfN)
 
-
+[DAY 18]
+![DAY 18](https://lh3.googleusercontent.com/d/1VAXKS9Qt0aKzlUANktgUqfz7_tC4nhEN)
 
 
 
