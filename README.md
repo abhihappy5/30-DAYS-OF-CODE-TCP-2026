@@ -59,6 +59,9 @@
 [DAY 18]
 ![DAY 18](https://lh3.googleusercontent.com/d/1VAXKS9Qt0aKzlUANktgUqfz7_tC4nhEN)
 
+[DAY 19]
+![DAY 19](https://lh3.googleusercontent.com/d/17MEPyM_fvLN0maYZ5-xtNoAHo6Q72tes)
+
 
 
 
