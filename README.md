@@ -62,6 +62,12 @@
 [DAY 19]
 ![DAY 19](https://lh3.googleusercontent.com/d/17MEPyM_fvLN0maYZ5-xtNoAHo6Q72tes)
 
+[DAY 20]
+![DAY 20](https://lh3.googleusercontent.com/d/1FVrLy0emgRwBvt57MFvmXdqGdUG4e_Fn)
+
+[DAY 21]
+![DAY 21](https://lh3.googleusercontent.com/d/16A7HSzYDB8cWU4HYdM7mw7jxpY2zMAlR)
+
 
 
 
