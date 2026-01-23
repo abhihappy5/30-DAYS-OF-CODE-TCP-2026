@@ -71,6 +71,9 @@
 [DAY 22]
 ![DAY 22](https://lh3.googleusercontent.com/d/1v_emOAmONENajshrQ__a72OM2kdayVde)
 
+[DAY 23]
+![DAY 23](https://lh3.googleusercontent.com/d/1JJRZihTsera46Rowxxvnz99O5TU5cPy7)
+
 
 
 
