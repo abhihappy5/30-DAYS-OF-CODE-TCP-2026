@@ -74,6 +74,7 @@
 [DAY 23]
 ![DAY 23](https://lh3.googleusercontent.com/d/1JJRZihTsera46Rowxxvnz99O5TU5cPy7)
 
-
+[DAY 24]
+![DAY 24](https://lh3.googleusercontent.com/d/1spKlzL7PbD4qiH88COhEACZgVG-iwcXY)
 
 
