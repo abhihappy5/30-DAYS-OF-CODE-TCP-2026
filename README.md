@@ -86,6 +86,9 @@
 [DAY 27]
 ![DAY 27](https://lh3.googleusercontent.com/d/1-waG3fM5y12mxxEKk1deaa3UioHv_EvF)
 
+[DAY 28]
+![DAY 28](https://lh3.googleusercontent.com/d/1pHsfQCu67K34TVo9RomLtlEDDElneKXq)
+
 
 
 
