@@ -1,7 +1,7 @@
 # 30-DAYS-OF-CODE-TCP-2026
-**Name:** Abhishek Agarwal  
-**Branch:** Electrical  
-**Roll No:** 25117005
+**Name : Abhishek Agarwal**  
+**Branch : Electrical**  
+**Roll No : 25117005**
 
 
 [DAY 1]
