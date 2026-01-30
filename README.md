@@ -93,4 +93,5 @@
 [DAY 29]
 ![DAY 29](https://lh3.googleusercontent.com/d/1_J_QlEEbm7XEgTlCjwN0dQ86gIm7WDhB)
 
-
+[DAY 30]
+![DAY 30](https://lh3.googleusercontent.com/d/1ENsDD9ONf0jWugjjRI8IoOrJm52qz_gF)
